@@ -1,0 +1,72 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: short.aux
+The style file: apalike.bst
+Database file #1: application.bib
+Repeated entry---line 203 of file application.bib
+ : @inproceedings{martinez2018net
+ :                               ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "dore2002exhumation"
+Warning--I didn't find a database entry for "ring1999exhumation"
+Warning--I didn't find a database entry for "green2013stratigraphic"
+Warning--I didn't find a database entry for "henriksen2011uplift"
+Warning--I didn't find a database entry for "green2002quantifying"
+Warning--I didn't find a database entry for "carrapa2011patterns"
+Warning--I didn't find a database entry for "zattin2016thermochronological"
+Warning--I didn't find a database entry for "armstrong2003exhumation"
+Warning--I didn't find a database entry for "hansen1996quantification"
+Warning--I didn't find a database entry for "tassone2014quantifying"
+Warning--I didn't find a database entry for "armstrong1998late"
+Warning--I didn't find a database entry for "ktenas2017quantification"
+Warning--I didn't find a database entry for "olierook2016quantifying"
+Warning--I didn't find a database entry for "zieba2014assessment"
+Warning--I didn't find a database entry for "holt2014effects"
+Warning--I didn't find a database entry for "sen1992influence"
+Warning--I didn't find a database entry for "llera1990temperature"
+Warning--I didn't find a database entry for "hersir2009resistivity"
+Warning--I didn't find a database entry for "duffaut2018estimating"
+Warning--I didn't find a database entry for "bond2007you"
+Warning--empty journal in zimmer2003seismic
+You've used 13 entries,
+            1935 wiz_defined-function locations,
+            577 strings with 6537 characters,
+and the built_in function-call counts, 4993 in all, are:
+= -- 496
+> -- 197
+< -- 7
++ -- 68
+- -- 64
+* -- 436
+:= -- 883
+add.period$ -- 38
+call.type$ -- 13
+change.case$ -- 95
+chr.to.int$ -- 13
+cite$ -- 14
+duplicate$ -- 177
+empty$ -- 347
+format.name$ -- 87
+if$ -- 952
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 13
+newline$ -- 67
+num.names$ -- 39
+pop$ -- 75
+preamble$ -- 1
+purify$ -- 96
+quote$ -- 0
+skip$ -- 137
+stack$ -- 0
+substring$ -- 379
+swap$ -- 11
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 76
+warning$ -- 1
+while$ -- 44
+width$ -- 0
+write$ -- 166
+(There was 1 error message)
